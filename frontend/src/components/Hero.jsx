@@ -6,7 +6,7 @@ const Hero = () => {
         <section className="relative">
             <img
                 src={heroImg}
-                alt="SmartMess"
+                alt="MessMate"
                 className="w-full h-[400px] md:h-[600px] lg:h-[750px] object-cover"
             />
             <div className="absolute inset-0 bg-black bg-opacity-5 flex items-center justify-center">
@@ -17,7 +17,7 @@ const Hero = () => {
 
                     </h1>
                     <p className="text-sm tracking-tighter md:text-lg mb-6 max-w-2xl mx-auto text-centeR">
-                        Say goodbye to long queues, messy records, and confusing menus. SmartMess brings you a seamless way to manage your hostel dining – from raising concerns to tracking meals, marking attendance to paying bills. One platform, total control.
+                        Say goodbye to long queues, messy records, and confusing menus. MessMate brings you a seamless way to manage your hostel dining – from raising concerns to tracking meals, marking attendance to paying bills. One platform, total control.
                     </p>
                     <Link
                         to="/register"

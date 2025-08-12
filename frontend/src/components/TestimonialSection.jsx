@@ -4,13 +4,13 @@ const testimonials = [
     {
         name: "Shoyo",
         rating: 5,
-        text: "SmartMess has made my hostel life way more convenient. Rebates, bills, and attendance—everything is a tap away!",
+        text: "MessMate has made my hostel life way more convenient. Rebates, bills, and attendance—everything is a tap away!",
         image: "https://www.figma.com/community/resource/58b10bce-db29-4325-9d14-9984960f3739/thumbnail"
     },
     {
         name: "Admin",
         rating: 5,
-        text: "Managing student complaints and menus used to be a hassle. SmartMess saves me hours every week!",
+        text: "Managing student complaints and menus used to be a hassle. MessMate saves me hours every week!",
         image: "https://i.pravatar.cc/150?img=12"
     },
     {

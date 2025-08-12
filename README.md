@@ -1,6 +1,6 @@
-# SmartMess 🍽️
+# MessMate 🍽️
 
-**SmartMess** is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline and digitize hostel mess operations. It provides role-based access for students and admins, enabling smooth management of attendance, complaints, menu updates, rebate applications, notices, and payments.
+**MessMate** is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline and digitize hostel mess operations. It provides role-based access for students and admins, enabling smooth management of attendance, complaints, menu updates, rebate applications, notices, and payments.
 
 > Both frontend and backend are hosted on **Vercel**.
 
@@ -59,7 +59,7 @@
 ## 📁 Folder Structure
 
 ```
-SmartMess/
+MessMate/
 ├── client/               # Frontend - React App
 │   ├── public/
 │   └── src/
@@ -83,8 +83,8 @@ SmartMess/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nihalrawat2001/SmartMess.git
-cd SmartMess
+git clone https://github.com/nihalrawat2001/MessMate.git
+cd MessMate
 ```
 
 ### 2. Setup Backend

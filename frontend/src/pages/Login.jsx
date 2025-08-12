@@ -42,7 +42,7 @@ const LoginPage = () => {
                 {/* Left - Login Form */}
                 <div className="w-full md:w-1/2 flex items-center justify-center p-6 bg-white">
                     <div className="w-full max-w-md space-y-6 border px-6 py-8">
-                        <h2 className="text-3xl font-bold text-gray-800">Login to SmartMess</h2>
+                        <h2 className="text-3xl font-bold text-gray-800">Login to MessMate</h2>
                         <form className="space-y-4" onSubmit={(e) => handleSubmit(e, email, password)}>
                             <div>
                                 <label className="block text-gray-700 mb-1">Email</label>
