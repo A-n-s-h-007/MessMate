@@ -83,7 +83,7 @@ MessMate/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nihalrawat2001/MessMate.git
+git clone https://github.com/AnshMishra2001/MessMate.git
 cd MessMate
 ```
 
@@ -158,6 +158,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Nihal Rawat**  
+**Ansh Mishra**  
 - [GitHub](https://github.com/aestheticoder1)  
-- [LinkedIn](https://www.linkedin.com/in/nihal-rawat-134440260/)
+- [LinkedIn](https://www.linkedin.com/in/Ansh-Mishra-134440260/)
