@@ -13,8 +13,8 @@ const AdminComplaint = () => {
     setLoading(true);
     try {
       const endpoint = showPendingOnly
-        ? "https://smart-mess-backend.vercel.app/api/complaint/pending"
-        : "https://smart-mess-backend.vercel.app/api/complaint/all";
+        ? "http://localhost:5000/api/complaint/pending"
+        : "http://localhost:5000/api/complaint/all";
 
       const res = await axios.get(endpoint, {
         withCredentials: true,
@@ -31,7 +31,7 @@ const AdminComplaint = () => {
   const markResolved = async (id) => {
     try {
       await axios.put(
-        `https://smart-mess-backend.vercel.app/api/complaint/resolve/${id}`,
+        `http://localhost:5000/api/complaint/resolve/${id}`,
         {},
         { withCredentials: true }
       );

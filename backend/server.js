@@ -9,7 +9,8 @@ const app = express();
 app.use(express.json());
 app.use(cookieParser()); // To parse cookies
 app.use(cors({
-    origin: "https://smart-mess-chi.vercel.app", // your frontend port
+    // origin: "https://smart-mess-chi.vercel.app", // your frontend port
+    origin : "http://localhost:5173",
     credentials: true, // 👈 allow cookies
 }));
 

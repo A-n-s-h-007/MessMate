@@ -22,7 +22,7 @@ const RegisterPage = () => {
         e.preventDefault();
         try {
             const res = await axios.post(
-                "https://smart-mess-backend.vercel.app/api/user/register",
+                "http://localhost:5000/api/user/register",
                 formData,
                 { withCredentials: true }
             );
