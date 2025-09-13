@@ -12,7 +12,7 @@ const AdminPendingBills = () => {
 
   const fetchPendingBills = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/attendance/pending", {
+      const res = await axios.get("https://messmate-luwo.onrender.com/api/attendance/pending", {
         withCredentials: true,
       });
       setPendingBills(res.data);

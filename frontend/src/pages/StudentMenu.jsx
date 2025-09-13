@@ -11,7 +11,7 @@ const StudentMenu = () => {
 
   const fetchMenu = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/menu/get");
+      const res = await axios.get("https://messmate-luwo.onrender.com/api/menu/get");
       const sorted = [...res.data].sort(
         (a, b) => weekdays.indexOf(a.day) - weekdays.indexOf(b.day)
       );

@@ -15,7 +15,7 @@ const LoginPage = () => {
     const handleLogin = async (email, password) => {
         try {
             const res = await axios.post(
-                "http://localhost:5000/api/user/login",
+                "https://messmate-luwo.onrender.com/api/user/login",
                 { emailId: email, password },
                 { withCredentials: true } // 👈 this is mandatory for cookies
             );
