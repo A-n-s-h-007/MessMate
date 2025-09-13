@@ -159,5 +159,5 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Ansh Mishra**  
-- [GitHub](https://github.com/aestheticoder1)  
-- [LinkedIn](https://www.linkedin.com/in/Ansh-Mishra-134440260/)
+- [GitHub]([https://github.com/A-n-s-h-007])  
+- [LinkedIn]((https://www.linkedin.com/in/ansh-mishra-b3897b262/))
