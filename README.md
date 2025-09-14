@@ -2,7 +2,7 @@
 
 **MessMate** is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline and digitize hostel mess operations. It provides role-based access for students and admins, enabling smooth management of attendance, complaints, menu updates, rebate applications, notices, and payments.
 
-> Both frontend and backend are hosted on **Vercel**.
+> Both frontend and backend are hosted on **Render**.
 
 ---
 
@@ -78,7 +78,7 @@ MessMate/
 ### Prerequisites:
 - Node.js
 - MongoDB (local or MongoDB Atlas)
-- Vercel account (optional for deployment)
+- Render account (optional for deployment)
 
 ### 1. Clone the Repository
 
